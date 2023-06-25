@@ -8,7 +8,7 @@ Meysari Flowers Web
 
 # Link Tugas Web Profile
 
-http://meysari.rf.gd/?i=1
+http://meysari2.rf.gd/?i=1
 
 # Content di dalam Web ini terdiri dari :
 
